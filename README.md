@@ -69,6 +69,6 @@ gen_train_val_from_lists.py : create train.txt and val.txt file from the list fi
 
 # Some Results:
 
-![original img](https://github.com/BOBrown/deeparsing-master/results/2007_000480.jpg)
+![original img](https://github.com/BOBrown/deeparsing-master/tree/master/results/2007_000480.jpg)
 
-![parsing img](https://github.com/BOBrown/deeparsing-master/results/2007_000480.png)
+![parsing img](https://github.com/BOBrown/deeparsing-master/tree/master/results/2007_000480.png)
